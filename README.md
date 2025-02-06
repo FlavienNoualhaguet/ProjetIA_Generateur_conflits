@@ -1,1 +1,2 @@
-# ProjetIA_Generateur_conflits
+# Conflictuator
+Création de trajectoires conflictualisés 
